@@ -7,12 +7,4 @@
   ],
   "profile": { "name": "typicode" }
 }
-{
-  "posts2": [
-    { "id": 1, "title2": "json-server", "author": "typicode" }
-  ],
-  "comments2": [
-    { "id": 1, "body2": "some comment", "postId": 1 }
-  ],
-  "profile2": { "name2": "typicode" }
-}
+the end
